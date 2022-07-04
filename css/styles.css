@@ -3,6 +3,20 @@
 	margin: 0;
 }
 
-div {
+.top-container {
 	background-color: #e4f9f5;
+}
+
+.middle-container,
+.bottom-container {
+	width: 200px;
+	height: 200px;
+}
+
+.middle-container {
+	background-color: red;
+}
+
+.bottom-container {
+	background-color: blue;
 }
